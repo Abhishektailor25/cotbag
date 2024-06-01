@@ -3,7 +3,7 @@
 <html class="no-js" lang="en">
 <head>
 <?php include('includes/meta-utf.php');  ?>
-<title>Cotton Bags Manufacturer In India, Cotton Bags India</title>
+<title>Cotton Bags Manufacturer In India, Cotton Bags India s</title>
 <meta name="description" content="Cotton bags manufacturer in India, Cotton bags India. We are cotton tote suppliers, cotton bags Exporter & cotton tote wholesalers in India. We provide all kinds of cotton bags & cotton tote accessories from India.">
 <meta name="keywords" content="Ronak Industries">
 <meta name="author" content="Ronak Industries">
