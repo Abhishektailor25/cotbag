@@ -1,0 +1,155 @@
+[12-Jun-2023 08:14:17 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[12-Jun-2023 08:14:22 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[16-Jun-2023 06:59:11 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[16-Jun-2023 07:05:36 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[16-Jun-2023 07:07:54 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[17-Jun-2023 06:31:11 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[17-Jun-2023 06:31:12 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[17-Jun-2023 12:22:32 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[20-Jun-2023 03:27:20 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[21-Jun-2023 08:14:19 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[21-Jun-2023 08:14:27 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[21-Jun-2023 08:14:30 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[21-Jun-2023 08:14:43 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[21-Jun-2023 10:48:28 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[22-Jun-2023 05:06:08 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 06:31:55 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 10:13:04 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 10:13:10 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 10:13:14 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 10:13:17 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 10:45:17 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 10:45:26 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[23-Jun-2023 10:45:27 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[11-Jul-2023 03:44:39 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[11-Jul-2023 03:45:52 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[15-Jul-2023 09:10:35 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/alpha/admin/dashboard.php on line 20
+[20-Jul-2023 11:19:07 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[22-Jul-2023 03:36:02 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[23-Jul-2023 08:17:30 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[28-Jul-2023 08:00:43 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[28-Jul-2023 08:42:25 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[05-Aug-2023 13:18:59 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[07-Aug-2023 03:40:18 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[12-Aug-2023 09:28:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 09:28:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 09:28:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 09:28:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 09:28:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 09:29:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 09:29:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 09:29:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "php" in /home4/nietalwar/public_html/admin/pages/popup.php:227
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(108): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/popup.php on line 227
+[12-Aug-2023 10:22:54 UTC] PHP Warning:  Undefined array key "event_Id" in /home4/nietalwar/public_html/admin/pages/events-gallery.php on line 1
+[12-Aug-2023 10:22:57 UTC] PHP Warning:  Undefined array key "event_Id" in /home4/nietalwar/public_html/admin/pages/events-gallery.php on line 1
+[19-Aug-2023 12:54:33 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[29-Aug-2023 09:18:49 UTC] PHP Warning:  Undefined array key "pasessid" in /home4/nietalwar/public_html/admin/dashboard.php on line 20
+[11-Oct-2023 07:09:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nietalwa_nietalwar_new.file_upload' doesn't exist in /home4/nietalwar/public_html/admin/classes/class.common.php:142
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/classes/class.common.php(142): PDOStatement->execute()
+#1 /home4/nietalwar/public_html/admin/pages/file-upload.php(232): COMMON->getRows(' file_upload', Array)
+#2 /home4/nietalwar/public_html/admin/pages/dashboard.php(104): include('/home4/nietalwa...')
+#3 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#4 {main}
+  thrown in /home4/nietalwar/public_html/admin/classes/class.common.php on line 142
+[11-Oct-2023 07:09:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nietalwa_nietalwar_new.file_upload' doesn't exist in /home4/nietalwar/public_html/admin/classes/class.common.php:142
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/classes/class.common.php(142): PDOStatement->execute()
+#1 /home4/nietalwar/public_html/admin/pages/file-upload.php(232): COMMON->getRows(' file_upload', Array)
+#2 /home4/nietalwar/public_html/admin/pages/dashboard.php(104): include('/home4/nietalwa...')
+#3 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#4 {main}
+  thrown in /home4/nietalwar/public_html/admin/classes/class.common.php on line 142
+[11-Oct-2023 07:09:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nietalwa_nietalwar_new.file_upload' doesn't exist in /home4/nietalwar/public_html/admin/classes/class.common.php:142
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/classes/class.common.php(142): PDOStatement->execute()
+#1 /home4/nietalwar/public_html/admin/pages/file-upload.php(232): COMMON->getRows(' file_upload', Array)
+#2 /home4/nietalwar/public_html/admin/pages/dashboard.php(104): include('/home4/nietalwa...')
+#3 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#4 {main}
+  thrown in /home4/nietalwar/public_html/admin/classes/class.common.php on line 142
+[11-Oct-2023 07:09:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nietalwa_nietalwar_new.file_upload' doesn't exist in /home4/nietalwar/public_html/admin/classes/class.common.php:142
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/classes/class.common.php(142): PDOStatement->execute()
+#1 /home4/nietalwar/public_html/admin/pages/file-upload.php(232): COMMON->getRows(' file_upload', Array)
+#2 /home4/nietalwar/public_html/admin/pages/dashboard.php(104): include('/home4/nietalwa...')
+#3 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#4 {main}
+  thrown in /home4/nietalwar/public_html/admin/classes/class.common.php on line 142
+[11-Oct-2023 07:14:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'nietalwa_nietalwar_new.file_upload' doesn't exist in /home4/nietalwar/public_html/admin/classes/class.common.php:142
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/classes/class.common.php(142): PDOStatement->execute()
+#1 /home4/nietalwar/public_html/admin/pages/file-upload.php(232): COMMON->getRows(' file_upload', Array)
+#2 /home4/nietalwar/public_html/admin/pages/dashboard.php(104): include('/home4/nietalwa...')
+#3 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#4 {main}
+  thrown in /home4/nietalwar/public_html/admin/classes/class.common.php on line 142
+[06-Jan-2024 05:36:58 UTC] PHP Warning:  imagejpeg(../uploads/events/view/test-by-cespl-1704519418-4.jpg): failed to open stream: No such file or directory in /home4/nietalwar/public_html/admin/support/thumb.php on line 59
+[11-Jan-2024 06:11:49 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphwtew6' to '../uploads/events/annual-fest-2023-pragya-1704953509-2.JPG' in /home4/nietalwar/public_html/admin/support/thumb.php on line 26
+[11-Jan-2024 06:13:05 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpHzveFb' to '../uploads/events/annual-fest-2023-pragya-10.JPG' in /home4/nietalwar/public_html/admin/support/thumb.php on line 26
+[11-Jan-2024 06:14:41 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpbckG53' to '../uploads/events/annual-fest-2023-pragya-1704953681-1.JPG' in /home4/nietalwar/public_html/admin/support/thumb.php on line 26
+[12-Jan-2024 05:46:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpo3DjV9' to '../uploads/events/annual-fest-2023-pragya-1705038390-9.JPG' in /home4/nietalwar/public_html/admin/support/thumb.php on line 26
+[12-Jan-2024 05:47:29 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpdVU3Rx' to '../uploads/events/pragya-annual-fest-2023-1705038449-4.JPG' in /home4/nietalwar/public_html/admin/support/thumb.php on line 26
+[08-Feb-2024 12:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method COMMON::get_require_data() in /home4/nietalwar/public_html/admin/pages/committees.php:381
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(111): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/committees.php on line 381
+[08-Feb-2024 12:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method COMMON::get_require_data() in /home4/nietalwar/public_html/admin/pages/committees.php:381
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(111): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/committees.php on line 381
+[08-Feb-2024 12:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method COMMON::get_require_data() in /home4/nietalwar/public_html/admin/pages/committees.php:381
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(111): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/committees.php on line 381
+[08-Feb-2024 12:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method COMMON::select_all_data_by_given_order_by_status() in /home4/nietalwar/public_html/admin/pages/committees.php:270
+Stack trace:
+#0 /home4/nietalwar/public_html/admin/pages/dashboard.php(111): include()
+#1 /home4/nietalwar/public_html/admin/dashboard.php(66): require_once('/home4/nietalwa...')
+#2 {main}
+  thrown in /home4/nietalwar/public_html/admin/pages/committees.php on line 270
